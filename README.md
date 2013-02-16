@@ -2,7 +2,7 @@
 
 ###Install 
 
-    pip install virtualenvwraper.gem
+    pip install virtualenvwrapper.gem
 
 ###How it works
 
